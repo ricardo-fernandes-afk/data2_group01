@@ -1,124 +1,121 @@
-Portfolio Liegenschaften – Immobilien AG;;;;;;;;;;;;;;
-120 Liegenschaften | Kantone: ZH, BS, AG, LU, ZG | Stand: April 2026;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-Building ID;Bezeichnung;Gemeinde;Kanton;Kategorie;EBF (m²);Geschosse;MeteoStation;Grundlast (W/m²);Spitzenlast (W/m²);PV vorhanden;PV Leistung (kWp);Wärmeversorgung;Lat;Lon
-LI-001;MFH Hagenholzstrasse 64a, Schlieren;Schlieren;ZH;Wohnen;2813;6;GIH;0.6;3.2;WAHR;65.6;Wärmepumpe (WP);47.387668;8.43984
-LI-002;Bürogebäude Seefeldstrasse 88, Zürich;Zürich;ZH;Büro & Verwaltung;2210;6;SMA;1.5;7.7;FALSCH;0;Gasheizung;47.382446;8.537164
-LI-003;Bürogebäude Hagenholzstrasse 14, Schlieren;Schlieren;ZH;Büro & Verwaltung;2250;4;GIH;1.5;7.7;FALSCH;0;Fernwärme;47.4042;8.448184
-LI-004;Geschäftshaus Bahnhofstrasse 15, Regensdorf;Regensdorf;ZH;Verkauf & Mischnutzung;1392;2;GIH;2.3;11.4;FALSCH;0;Fernwärme;47.424747;8.458781
-LI-005;Bürogebäude Birmensdorferstrasse 34, Regensdorf;Regensdorf;ZH;Büro & Verwaltung;2090;8;KLO;1.5;7.7;FALSCH;0;Gasheizung;47.442145;8.475294
-LI-006;MFH Seefeldstrasse 32, Regensdorf;Regensdorf;ZH;Wohnen;2028;4;GIH;0.6;3.2;WAHR;71;Wärmepumpe (WP);47.419505;8.466294
-LI-007;Bürogebäude Hofwiesenstrasse 10, Zürich;Zürich;ZH;Büro & Verwaltung;2208;8;SMA;1.5;7.7;FALSCH;0;VRV/VRF-Klimasystem;47.380055;8.534142
-LI-008;Bürogebäude Seefeldstrasse 13, Schlieren;Schlieren;ZH;Büro & Verwaltung;1485;8;GIH;1.5;7.7;FALSCH;0;Wärmepumpe (WP);47.394166;8.447209
-LI-009;Geschäftshaus Nordstrasse 25, Zürich;Zürich;ZH;Verkauf & Mischnutzung;1140;3;SMA;2.3;11.4;FALSCH;0;Fernwärme;47.367364;8.533404
-LI-010;Geschäftshaus Rämistrasse 97, Zürich;Zürich;ZH;Verkauf & Mischnutzung;1233;2;SMA;2.3;11.4;FALSCH;0;Fernwärme;47.373754;8.540553
-LI-011;MFH Bucheggstrasse 55, Regensdorf;Regensdorf;ZH;Wohnen;909;7;GIH;0.6;3.2;WAHR;18.2;Gasheizung;47.422715;8.460121
-LI-012;Bürogebäude Hagenholzstrasse 68, Regensdorf;Regensdorf;ZH;Büro & Verwaltung;1140;8;GIH;1.5;7.7;FALSCH;0;Gasheizung;47.439432;8.454645
-LI-013;Bürogebäude Rämistrasse 54, Zürich;Zürich;ZH;Büro & Verwaltung;3130;8;SMA;1.5;7.7;FALSCH;0;Fernwärme;47.376547;8.551433
-LI-014;MFH Forchstrasse 41, Dietikon;Dietikon;ZH;Wohnen;2080;3;GIH;0.6;3.2;WAHR;97.1;Gasheizung;47.391224;8.402908
-LI-015;MFH Rämistrasse 32, Dietikon;Dietikon;ZH;Wohnen;1751;7;GIH;0.6;3.2;WAHR;35;Ölheizung;47.401516;8.401037
-LI-016;Bürogebäude Badenerstrasse 34a, Zürich;Zürich;ZH;Büro & Verwaltung;2170;8;SMA;1.5;7.7;FALSCH;0;Fernwärme;47.377277;8.535536
-LI-017;Bürogebäude Langstrasse 12, Dietikon;Dietikon;ZH;Büro & Verwaltung;1576;8;GIH;1.5;7.7;FALSCH;0;Fernwärme;47.392058;8.396005
-LI-018;Geschäftshaus Rämistrasse 89, Zürich;Zürich;ZH;Verkauf & Mischnutzung;2255;3;SMA;2.3;11.4;FALSCH;0;Gasheizung;47.364865;8.537861
-LI-019;MFH Friesenbergstrasse 27, Zürich;Zürich;ZH;Wohnen;2121;7;SMA;0.6;3.2;WAHR;42.4;Wärmepumpe (WP);47.366467;8.547723
-LI-020;Bürogebäude Weinbergstrasse 4, Schlieren;Schlieren;ZH;Büro & Verwaltung;1870;5;GIH;1.5;7.7;FALSCH;0;Wärmepumpe (WP);47.402777;8.445881
-LI-021;MFH Militärstrasse 59, Schlieren;Schlieren;ZH;Wohnen;1720;5;GIH;0.6;3.2;WAHR;48.2;Wärmepumpe (WP);47.38935;8.451841
-LI-022;Bürogebäude Hofwiesenstrasse 4b, Regensdorf;Regensdorf;ZH;Büro & Verwaltung;1410;3;GIH;1.5;7.7;FALSCH;0;Gasheizung;47.432934;8.476605
-LI-023;Geschäftshaus Albisriederstrasse 74, Zürich;Zürich;ZH;Verkauf & Mischnutzung;2068;3;SMA;2.3;11.4;FALSCH;0;Fernwärme;47.381011;8.529041
-LI-024;Geschäftshaus Bucheggstrasse 65, Zürich;Zürich;ZH;Verkauf & Mischnutzung;1584;3;SMA;2.3;11.4;FALSCH;0;Fernwärme;47.371828;8.545733
-LI-025;MFH Bucheggstrasse 52, Schlieren;Schlieren;ZH;Wohnen;2548;7;GIH;0.6;3.2;WAHR;51;Fernwärme;47.391293;8.441044
-LI-026;MFH Birmensdorferstrasse 85b, Regensdorf;Regensdorf;ZH;Wohnen;2465;5;GIH;0.6;3.2;WAHR;69;Wärmepumpe (WP);47.438642;8.471027
-LI-027;Bürogebäude Rämistrasse 59, Regensdorf;Regensdorf;ZH;Büro & Verwaltung;2672;4;GIH;1.5;7.7;FALSCH;0;Wärmepumpe (WP);47.43624;8.462215
-LI-028;Bürogebäude Birmensdorferstrasse 90, Schlieren;Schlieren;ZH;Büro & Verwaltung;1148;6;GIH;1.5;7.7;FALSCH;0;Gasheizung;47.397378;8.458019
-LI-029;MFH Hagenholzstrasse 55, Regensdorf;Regensdorf;ZH;Wohnen;1978;6;KLO;0.6;3.2;WAHR;46.2;Wärmepumpe (WP);47.440533;8.470848
-LI-030;Bürogebäude Nordstrasse 36, Regensdorf;Regensdorf;ZH;Büro & Verwaltung;1008;4;GIH;1.5;7.7;FALSCH;0;Fernwärme;47.424628;8.46106
-LI-031;MFH Weinbergstrasse 53, Zürich;Zürich;ZH;Wohnen;2226;6;SMA;0.6;3.2;WAHR;51.9;Gasheizung;47.373979;8.533964
-LI-032;MFH Thurgauerstrasse 1, Regensdorf;Regensdorf;ZH;Wohnen;2121;7;GIH;0.6;3.2;WAHR;42.4;Ölheizung;47.437083;8.473483
-LI-033;MFH Weinbergstrasse 63b, Dietikon;Dietikon;ZH;Wohnen;1140;7;GIH;0.6;3.2;WAHR;22.8;Wärmepumpe (WP);47.40838;8.408172
-LI-034;MFH Badenerstrasse 60, Regensdorf;Regensdorf;ZH;Wohnen;1836;5;GIH;0.6;3.2;WAHR;51.4;Fernwärme;47.428098;8.45808
-LI-035;Bürogebäude Thurgauerstrasse 3, Zürich;Zürich;ZH;Büro & Verwaltung;1776;9;REH;1.5;7.7;FALSCH;0;Wärmepumpe (WP);47.387998;8.537399
-LI-036;MFH Hochbergerstrasse 20, Basel;Basel;BS;Wohnen;1400;6;BAS;0.6;3.2;WAHR;32.7;Fernwärme;47.562067;7.589535
-LI-037;Bürogebäude St. Alban-Anlage 15, Allschwil;Allschwil;BS;Büro & Verwaltung;1108;5;GRE;1.5;7.7;FALSCH;0;Wärmepumpe (WP);47.562153;7.528594
-LI-038;MFH Riehenstrasse 10, Allschwil;Allschwil;BS;Wohnen;2987;7;GRE;0.6;3.2;WAHR;59.7;Wärmepumpe (WP);47.541446;7.54454
-LI-039;Bürogebäude Elsässerstrasse 48b, Riehen;Riehen;BS;Büro & Verwaltung;1554;6;LEI;1.5;7.7;FALSCH;0;Wärmepumpe (WP);47.59139;7.656736
-LI-040;MFH Steinenvorstadt 94, Riehen;Riehen;BS;Wohnen;2944;6;LEI;0.6;3.2;WAHR;68.7;Fernwärme;47.585782;7.659071
-LI-041;Bürogebäude Schützenmattstrasse 12, Basel;Basel;BS;Büro & Verwaltung;2192;5;BAS;1.5;7.7;FALSCH;0;Gasheizung;47.551853;7.587153
-LI-042;Bürogebäude Nauenstrasse 34, Riehen;Riehen;BS;Büro & Verwaltung;1910;3;LEI;1.5;7.7;FALSCH;0;Wärmepumpe (WP);47.584339;7.649399
-LI-043;Bürogebäude St. Alban-Anlage 63, Allschwil;Allschwil;BS;Büro & Verwaltung;3289;5;GRE;1.5;7.7;FALSCH;0;VRV/VRF-Klimasystem;47.541233;7.531318
-LI-044;MFH Reinacherstrasse 43, Allschwil;Allschwil;BS;Wohnen;968;4;GRE;0.6;3.2;WAHR;33.9;Wärmepumpe (WP);47.545502;7.532034
-LI-045;Bürogebäude Gundeldingerstrasse 36, Allschwil;Allschwil;BS;Büro & Verwaltung;2886;4;BAS;1.5;7.7;FALSCH;0;Fernwärme;47.562532;7.545983
-LI-046;Bürogebäude Reinacherstrasse 38, Basel;Basel;BS;Büro & Verwaltung;931;9;BAS;1.5;7.7;FALSCH;0;VRV/VRF-Klimasystem;47.561309;7.594067
-LI-047;MFH Freie Strasse 33, Basel;Basel;BS;Wohnen;2208;3;BAS;0.6;3.2;WAHR;103;Ölheizung;47.548738;7.577568
-LI-048;MFH Petersgraben 11, Allschwil;Allschwil;BS;Wohnen;2295;7;GRE;0.6;3.2;WAHR;45.9;Gasheizung;47.552394;7.535988
-LI-049;Geschäftshaus Hammerstrasse 40, Allschwil;Allschwil;BS;Verkauf & Mischnutzung;972;3;GRE;2.3;11.4;FALSCH;0;Fernwärme;47.553631;7.543762
-LI-050;Geschäftshaus Freie Strasse 53, Basel;Basel;BS;Verkauf & Mischnutzung;791;5;BAS;2.3;11.4;FALSCH;0;Gasheizung;47.55299;7.581555
-LI-051;MFH Riehenstrasse 83, Allschwil;Allschwil;BS;Wohnen;1261;5;GRE;0.6;3.2;WAHR;35.3;Ölheizung;47.558839;7.527714
-LI-052;MFH St. Alban-Anlage 39, Riehen;Riehen;BS;Wohnen;790;7;LEI;0.6;3.2;WAHR;15.8;Fernwärme;47.583011;7.648851
-LI-053;Bürogebäude Elsässerstrasse 74, Basel;Basel;BS;Büro & Verwaltung;1680;7;BAS;1.5;7.7;FALSCH;0;Fernwärme;47.56999;7.592135
-LI-054;Bürogebäude Hochbergerstrasse 56, Basel;Basel;BS;Büro & Verwaltung;3604;5;BAS;1.5;7.7;FALSCH;0;Wärmepumpe (WP);47.569257;7.58728
-LI-055;MFH Gundeldingerstrasse 37, Allschwil;Allschwil;BS;Wohnen;1936;3;BAS;0.6;3.2;WAHR;90.3;Fernwärme;47.558526;7.539202
-LI-056;MFH Elsässerstrasse 70, Basel;Basel;BS;Wohnen;3136;6;BAS;0.6;3.2;WAHR;73.2;Fernwärme;47.550502;7.584683
-LI-057;Geschäftshaus Hebelstrasse 37, Basel;Basel;BS;Verkauf & Mischnutzung;1620;3;BAS;2.3;11.4;FALSCH;0;Wärmepumpe (WP);47.548914;7.599356
-LI-058;MFH Gundeldingerstrasse 16, Basel;Basel;BS;Wohnen;2184;5;BAS;0.6;3.2;WAHR;61.2;Fernwärme;47.557961;7.593198
-LI-059;MFH Hammerstrasse 25, Basel;Basel;BS;Wohnen;1020;5;BAS;0.6;3.2;WAHR;28.6;Fernwärme;47.563911;7.579276
-LI-060;Geschäftshaus St. Alban-Anlage 39, Riehen;Riehen;BS;Verkauf & Mischnutzung;1800;4;LEI;2.3;11.4;FALSCH;0;Fernwärme;47.591766;7.647717
-LI-061;Bürogebäude Habsburgerstrasse 50, Emmen;Emmen;LU;Büro & Verwaltung;4784;6;LUZ;1.5;7.7;FALSCH;0;Wärmepumpe (WP);47.062048;8.278873
-LI-062;Bürogebäude Tribschenstrasse 76, Emmen;Emmen;LU;Büro & Verwaltung;2660;6;LUZ;1.5;7.7;FALSCH;0;Wärmepumpe (WP);47.081981;8.271567
-LI-063;MFH Bernstrasse 80, Kriens;Kriens;LU;Wohnen;2700;6;LUZ;0.6;3.2;WAHR;63;Fernwärme;47.039442;8.286456
-LI-064;MFH Habsburgerstrasse 9, Luzern;Luzern;LU;Wohnen;2142;3;LUZ;0.6;3.2;WAHR;100;Ölheizung;47.061938;8.313922
-LI-065;MFH Kasernenplatz 6, Kriens;Kriens;LU;Wohnen;1128;4;LUZ;0.6;3.2;WAHR;39.5;Fernwärme;47.026041;8.274996
-LI-066;MFH Habsburgerstrasse 49, Luzern;Luzern;LU;Wohnen;1470;6;LUZ;0.6;3.2;WAHR;34.3;Fernwärme;47.049944;8.309996
-LI-067;Bürogebäude Maihofstrasse 87, Horw;Horw;LU;Büro & Verwaltung;3094;8;LUZ;1.5;7.7;FALSCH;0;Wärmepumpe (WP);47.013602;8.309294
-LI-068;MFH Gütschstrasse 62b, Horw;Horw;LU;Wohnen;1768;3;LUZ;0.6;3.2;WAHR;82.5;Ölheizung;47.016795;8.324825
-LI-069;Bürogebäude Habsburgerstrasse 96, Luzern;Luzern;LU;Büro & Verwaltung;4380;4;LUZ;1.5;7.7;FALSCH;0;Fernwärme;47.056618;8.301523
-LI-070;MFH Maihofstrasse 57b, Luzern;Luzern;LU;Wohnen;2573;6;LUZ;0.6;3.2;WAHR;60;Wärmepumpe (WP);47.040163;8.303083
-LI-071;MFH Gütschstrasse 22, Kriens;Kriens;LU;Wohnen;1656;3;LUZ;0.6;3.2;WAHR;77.3;Wärmepumpe (WP);47.042217;8.273083
-LI-072;MFH Gütschstrasse 72, Horw;Horw;LU;Wohnen;2178;5;LUZ;0.6;3.2;WAHR;61;Ölheizung;47.003334;8.313878
-LI-073;MFH Hirschmattstrasse 87, Kriens;Kriens;LU;Wohnen;1530;7;LUZ;0.6;3.2;WAHR;30.6;Ölheizung;47.033869;8.288636
-LI-074;MFH Löwengraben 53a, Kriens;Kriens;LU;Wohnen;1166;4;LUZ;0.6;3.2;WAHR;40.8;Gasheizung;47.026305;8.277823
-LI-075;MFH Habsburgerstrasse 96, Horw;Horw;LU;Wohnen;2916;6;LUZ;0.6;3.2;WAHR;68;Fernwärme;47.018718;8.321009
-LI-076;Geschäftshaus Pilatusstrasse 47b, Horw;Horw;LU;Verkauf & Mischnutzung;472;5;LUZ;2.3;11.4;FALSCH;0;Gasheizung;47.004453;8.307621
-LI-077;Geschäftshaus Pilatusstrasse 17, Kriens;Kriens;LU;Verkauf & Mischnutzung;924;3;LUZ;2.3;11.4;FALSCH;0;Wärmepumpe (WP);47.020647;8.284364
-LI-078;Geschäftshaus Sentimattstrasse 70, Emmen;Emmen;LU;Verkauf & Mischnutzung;930;2;LUZ;2.3;11.4;FALSCH;0;Gasheizung;47.063638;8.281795
-LI-079;Geschäftshaus Sentimattstrasse 95, Luzern;Luzern;LU;Verkauf & Mischnutzung;1680;2;LUZ;2.3;11.4;FALSCH;0;Gasheizung;47.055896;8.30743
-LI-080;MFH Kreuzbuchstrasse 83, Kriens;Kriens;LU;Wohnen;1953;3;LUZ;0.6;3.2;WAHR;91.1;Ölheizung;47.042966;8.286335
-LI-081;Bürogebäude Hinterdorfstrasse 19b, Brugg;Brugg;AG;Büro & Verwaltung;3367;6;BUS;1.5;7.7;FALSCH;0;VRV/VRF-Klimasystem;47.483142;8.211337
-LI-082;MFH Vorstadt 93, Rheinfelden;Rheinfelden;AG;Wohnen;1620;6;LEI;0.6;3.2;WAHR;37.8;Fernwärme;47.553837;7.786484
-LI-083;Geschäftshaus Schulgasse 48, Rheinfelden;Rheinfelden;AG;Verkauf & Mischnutzung;476;5;LEI;2.3;11.4;FALSCH;0;Wärmepumpe (WP);47.544611;7.800963
-LI-084;MFH Vorstadt 43, Zofingen;Zofingen;AG;Wohnen;3360;6;WYN;0.6;3.2;WAHR;78.4;Ölheizung;47.284486;7.949968
-LI-085;MFH Hauptstrasse 74, Brugg;Brugg;AG;Wohnen;1155;5;BUS;0.6;3.2;WAHR;32.3;Gasheizung;47.489762;8.202382
-LI-086;Geschäftshaus Vorstadt 99, Wohlen;Wohlen;AG;Verkauf & Mischnutzung;987;2;BUS;2.3;11.4;FALSCH;0;Wärmepumpe (WP);47.354616;8.279788
-LI-087;Geschäftshaus Bahnhofstrasse 24, Brugg;Brugg;AG;Verkauf & Mischnutzung;690;2;BUS;2.3;11.4;FALSCH;0;Gasheizung;47.47567;8.214783
-LI-088;Bürogebäude Schulgasse 93, Brugg;Brugg;AG;Büro & Verwaltung;750;8;PSI;1.5;7.7;FALSCH;0;Fernwärme;47.4952;8.200734
-LI-089;Geschäftshaus Aarestrasse 35, Wohlen;Wohlen;AG;Verkauf & Mischnutzung;2748;5;BUS;2.3;11.4;FALSCH;0;Wärmepumpe (WP);47.348284;8.266661
-LI-090;MFH Bahnhofstrasse 27, Aarau;Aarau;AG;Wohnen;1377;5;GOE;0.6;3.2;WAHR;38.6;Wärmepumpe (WP);47.397416;8.05034
-LI-091;Geschäftshaus Vorstadt 91, Wohlen;Wohlen;AG;Verkauf & Mischnutzung;297;5;BUS;2.3;11.4;FALSCH;0;Fernwärme;47.34173;8.284682
-LI-092;Bürogebäude Aarestrasse 91, Zofingen;Zofingen;AG;Büro & Verwaltung;4032;4;WYN;1.5;7.7;FALSCH;0;Gasheizung;47.278764;7.934501
-LI-093;Bürogebäude Industriestrasse 56, Aarau;Aarau;AG;Büro & Verwaltung;3010;4;GOE;1.5;7.7;FALSCH;0;Fernwärme;47.388498;8.039447
-LI-094;Bürogebäude Ringstrasse 45, Baden;Baden;AG;Büro & Verwaltung;2840;4;PSI;1.5;7.7;FALSCH;0;Fernwärme;47.46667;8.298515
-LI-095;MFH Schmiedegasse 60, Rheinfelden;Rheinfelden;AG;Wohnen;2464;7;LEI;0.6;3.2;WAHR;49.3;Ölheizung;47.559347;7.802169
-LI-096;Bürogebäude Parkstrasse 39, Wohlen;Wohlen;AG;Büro & Verwaltung;2502;6;BUS;1.5;7.7;FALSCH;0;Wärmepumpe (WP);47.348447;8.265781
-LI-097;Geschäftshaus Hinterdorfstrasse 77, Aarau;Aarau;AG;Verkauf & Mischnutzung;723;5;GOE;2.3;11.4;FALSCH;0;Gasheizung;47.392928;8.054902
-LI-098;Bürogebäude Schmiedegasse 14, Aarau;Aarau;AG;Büro & Verwaltung;1737;3;GOE;1.5;7.7;FALSCH;0;Wärmepumpe (WP);47.402577;8.034024
-LI-099;Bürogebäude Kirchgasse 47, Zofingen;Zofingen;AG;Büro & Verwaltung;1455;9;WYN;1.5;7.7;FALSCH;0;Wärmepumpe (WP);47.285298;7.952587
-LI-100;MFH Aarestrasse 37, Rheinfelden;Rheinfelden;AG;Wohnen;1044;5;LEI;0.6;3.2;WAHR;29.2;Ölheizung;47.551001;7.794986
-LI-101;MFH Hauptstrasse 40, Rheinfelden;Rheinfelden;AG;Wohnen;2480;7;LEI;0.6;3.2;WAHR;49.6;Ölheizung;47.562516;7.797083
-LI-102;Geschäftshaus Kirchgasse 28, Brugg;Brugg;AG;Verkauf & Mischnutzung;850;2;BUS;2.3;11.4;FALSCH;0;Fernwärme;47.478608;8.220999
-LI-103;Geschäftshaus Kirchgasse 77, Zofingen;Zofingen;AG;Verkauf & Mischnutzung;2484;3;WYN;2.3;11.4;FALSCH;0;Fernwärme;47.28034;7.950628
-LI-104;MFH Schulgasse 97, Zofingen;Zofingen;AG;Wohnen;2047;4;WYN;0.6;3.2;WAHR;71.6;Ölheizung;47.281616;7.93974
-LI-105;Bürogebäude Aarestrasse 65, Brugg;Brugg;AG;Büro & Verwaltung;1552;9;PSI;1.5;7.7;FALSCH;0;Wärmepumpe (WP);47.493605;8.21623
-LI-106;Bürogebäude Göblistrasse 16, Zug;Zug;ZG;Büro & Verwaltung;1928;9;CHZ;1.5;7.7;FALSCH;0;Wärmepumpe (WP);47.160547;8.525727
-LI-107;MFH Baarerstrasse 54b, Steinhausen;Steinhausen;ZG;Wohnen;1320;3;CHZ;0.6;3.2;WAHR;61.6;Wärmepumpe (WP);47.189268;8.476959
-LI-108;Bürogebäude Baarerstrasse 37, Baar;Baar;ZG;Büro & Verwaltung;5453;6;CHZ;1.5;7.7;FALSCH;0;Wärmepumpe (WP);47.199706;8.518331
-LI-109;Geschäftshaus Göblistrasse 94, Baar;Baar;ZG;Verkauf & Mischnutzung;749;2;CHZ;2.3;11.4;FALSCH;0;Gasheizung;47.185668;8.521914
-LI-110;Bürogebäude Poststrasse 69a, Cham;Cham;ZG;Büro & Verwaltung;4140;4;CHZ;1.5;7.7;FALSCH;0;Gasheizung;47.176991;8.449038
-LI-111;MFH Industriestrasse 68, Steinhausen;Steinhausen;ZG;Wohnen;2492;6;CHZ;0.6;3.2;WAHR;58.1;Fernwärme;47.189371;8.486283
-LI-112;Geschäftshaus Grabenstrasse 94, Steinhausen;Steinhausen;ZG;Verkauf & Mischnutzung;848;3;CHZ;2.3;11.4;FALSCH;0;Wärmepumpe (WP);47.198516;8.492644
-LI-113;MFH Chollerstrasse 81, Cham;Cham;ZG;Wohnen;1914;3;CHZ;0.6;3.2;WAHR;89.3;Wärmepumpe (WP);47.171514;8.467629
-LI-114;MFH Zugerbergstrasse 66, Steinhausen;Steinhausen;ZG;Wohnen;1246;5;CHZ;0.6;3.2;WAHR;34.9;Wärmepumpe (WP);47.18608;8.493079
-LI-115;MFH Metallstrasse 52, Steinhausen;Steinhausen;ZG;Wohnen;2670;6;CHZ;0.6;3.2;WAHR;62.3;Gasheizung;47.188137;8.479484
-LI-116;MFH Metallstrasse 78, Zug;Zug;ZG;Wohnen;990;5;CHZ;0.6;3.2;WAHR;27.7;Fernwärme;47.167091;8.511709
-LI-117;Bürogebäude Ägeristrasse 58b, Cham;Cham;ZG;Büro & Verwaltung;1505;3;CHZ;1.5;7.7;FALSCH;0;Wärmepumpe (WP);47.176589;8.472521
-LI-118;MFH Poststrasse 87, Baar;Baar;ZG;Wohnen;2492;5;CHZ;0.6;3.2;WAHR;69.8;Fernwärme;47.18603;8.520664
-LI-119;MFH Ägeristrasse 48, Cham;Cham;ZG;Wohnen;1960;5;CHZ;0.6;3.2;WAHR;54.9;Fernwärme;47.183774;8.461707
-LI-120;Bürogebäude Chollerstrasse 67, Baar;Baar;ZG;Büro & Verwaltung;5148;4;CHZ;1.5;7.7;FALSCH;0;Fernwärme;47.189283;8.521247
+Building ID,Bezeichnung,Gemeinde,Kanton,Kategorie,EBF (mÂ²),Geschosse,MeteoStation,Grundlast (W/mÂ²),Spitzenlast (W/mÂ²),PV vorhanden,PV Leistung (kWp),WÃ¤rmeversorgung,Lat,Lon
+LI-001,"MFH Hagenholzstrasse 64a, Schlieren",Schlieren,ZH,Wohnen,2813,6,GIH,0.6,3.2,True,65.6,WÃ¤rmepumpe (WP),47.387668,8.43984
+LI-002,"BÃ¼rogebÃ¤ude Seefeldstrasse 88, ZÃ¼rich",ZÃ¼rich,ZH,BÃ¼ro & Verwaltung,2210,6,SMA,1.5,7.7,False,0,Gasheizung,47.382446,8.537164
+LI-003,"BÃ¼rogebÃ¤ude Hagenholzstrasse 14, Schlieren",Schlieren,ZH,BÃ¼ro & Verwaltung,2250,4,GIH,1.5,7.7,False,0,FernwÃ¤rme,47.4042,8.448184
+LI-004,"GeschÃ¤ftshaus Bahnhofstrasse 15, Regensdorf",Regensdorf,ZH,Verkauf & Mischnutzung,1392,2,GIH,2.3,11.4,False,0,FernwÃ¤rme,47.424747,8.458781
+LI-005,"BÃ¼rogebÃ¤ude Birmensdorferstrasse 34, Regensdorf",Regensdorf,ZH,BÃ¼ro & Verwaltung,2090,8,KLO,1.5,7.7,False,0,Gasheizung,47.442145,8.475294
+LI-006,"MFH Seefeldstrasse 32, Regensdorf",Regensdorf,ZH,Wohnen,2028,4,GIH,0.6,3.2,True,71,WÃ¤rmepumpe (WP),47.419505,8.466294
+LI-007,"BÃ¼rogebÃ¤ude Hofwiesenstrasse 10, ZÃ¼rich",ZÃ¼rich,ZH,BÃ¼ro & Verwaltung,2208,8,SMA,1.5,7.7,False,0,VRV/VRF-Klimasystem,47.380055,8.534142
+LI-008,"BÃ¼rogebÃ¤ude Seefeldstrasse 13, Schlieren",Schlieren,ZH,BÃ¼ro & Verwaltung,1485,8,GIH,1.5,7.7,False,0,WÃ¤rmepumpe (WP),47.394166,8.447209
+LI-009,"GeschÃ¤ftshaus Nordstrasse 25, ZÃ¼rich",ZÃ¼rich,ZH,Verkauf & Mischnutzung,1140,3,SMA,2.3,11.4,False,0,FernwÃ¤rme,47.367364,8.533404
+LI-010,"GeschÃ¤ftshaus RÃ¤mistrasse 97, ZÃ¼rich",ZÃ¼rich,ZH,Verkauf & Mischnutzung,1233,2,SMA,2.3,11.4,False,0,FernwÃ¤rme,47.373754,8.540553
+LI-011,"MFH Bucheggstrasse 55, Regensdorf",Regensdorf,ZH,Wohnen,909,7,GIH,0.6,3.2,True,18.2,Gasheizung,47.422715,8.460121
+LI-012,"BÃ¼rogebÃ¤ude Hagenholzstrasse 68, Regensdorf",Regensdorf,ZH,BÃ¼ro & Verwaltung,1140,8,GIH,1.5,7.7,False,0,Gasheizung,47.439432,8.454645
+LI-013,"BÃ¼rogebÃ¤ude RÃ¤mistrasse 54, ZÃ¼rich",ZÃ¼rich,ZH,BÃ¼ro & Verwaltung,3130,8,SMA,1.5,7.7,False,0,FernwÃ¤rme,47.376547,8.551433
+LI-014,"MFH Forchstrasse 41, Dietikon",Dietikon,ZH,Wohnen,2080,3,GIH,0.6,3.2,True,97.1,Gasheizung,47.391224,8.402908
+LI-015,"MFH RÃ¤mistrasse 32, Dietikon",Dietikon,ZH,Wohnen,1751,7,GIH,0.6,3.2,True,35,Ã–lheizung,47.401516,8.401037
+LI-016,"BÃ¼rogebÃ¤ude Badenerstrasse 34a, ZÃ¼rich",ZÃ¼rich,ZH,BÃ¼ro & Verwaltung,2170,8,SMA,1.5,7.7,False,0,FernwÃ¤rme,47.377277,8.535536
+LI-017,"BÃ¼rogebÃ¤ude Langstrasse 12, Dietikon",Dietikon,ZH,BÃ¼ro & Verwaltung,1576,8,GIH,1.5,7.7,False,0,FernwÃ¤rme,47.392058,8.396005
+LI-018,"GeschÃ¤ftshaus RÃ¤mistrasse 89, ZÃ¼rich",ZÃ¼rich,ZH,Verkauf & Mischnutzung,2255,3,SMA,2.3,11.4,False,0,Gasheizung,47.364865,8.537861
+LI-019,"MFH Friesenbergstrasse 27, ZÃ¼rich",ZÃ¼rich,ZH,Wohnen,2121,7,SMA,0.6,3.2,True,42.4,WÃ¤rmepumpe (WP),47.366467,8.547723
+LI-020,"BÃ¼rogebÃ¤ude Weinbergstrasse 4, Schlieren",Schlieren,ZH,BÃ¼ro & Verwaltung,1870,5,GIH,1.5,7.7,False,0,WÃ¤rmepumpe (WP),47.402777,8.445881
+LI-021,"MFH MilitÃ¤rstrasse 59, Schlieren",Schlieren,ZH,Wohnen,1720,5,GIH,0.6,3.2,True,48.2,WÃ¤rmepumpe (WP),47.38935,8.451841
+LI-022,"BÃ¼rogebÃ¤ude Hofwiesenstrasse 4b, Regensdorf",Regensdorf,ZH,BÃ¼ro & Verwaltung,1410,3,GIH,1.5,7.7,False,0,Gasheizung,47.432934,8.476605
+LI-023,"GeschÃ¤ftshaus Albisriederstrasse 74, ZÃ¼rich",ZÃ¼rich,ZH,Verkauf & Mischnutzung,2068,3,SMA,2.3,11.4,False,0,FernwÃ¤rme,47.381011,8.529041
+LI-024,"GeschÃ¤ftshaus Bucheggstrasse 65, ZÃ¼rich",ZÃ¼rich,ZH,Verkauf & Mischnutzung,1584,3,SMA,2.3,11.4,False,0,FernwÃ¤rme,47.371828,8.545733
+LI-025,"MFH Bucheggstrasse 52, Schlieren",Schlieren,ZH,Wohnen,2548,7,GIH,0.6,3.2,True,51,FernwÃ¤rme,47.391293,8.441044
+LI-026,"MFH Birmensdorferstrasse 85b, Regensdorf",Regensdorf,ZH,Wohnen,2465,5,GIH,0.6,3.2,True,69,WÃ¤rmepumpe (WP),47.438642,8.471027
+LI-027,"BÃ¼rogebÃ¤ude RÃ¤mistrasse 59, Regensdorf",Regensdorf,ZH,BÃ¼ro & Verwaltung,2672,4,GIH,1.5,7.7,False,0,WÃ¤rmepumpe (WP),47.43624,8.462215
+LI-028,"BÃ¼rogebÃ¤ude Birmensdorferstrasse 90, Schlieren",Schlieren,ZH,BÃ¼ro & Verwaltung,1148,6,GIH,1.5,7.7,False,0,Gasheizung,47.397378,8.458019
+LI-029,"MFH Hagenholzstrasse 55, Regensdorf",Regensdorf,ZH,Wohnen,1978,6,KLO,0.6,3.2,True,46.2,WÃ¤rmepumpe (WP),47.440533,8.470848
+LI-030,"BÃ¼rogebÃ¤ude Nordstrasse 36, Regensdorf",Regensdorf,ZH,BÃ¼ro & Verwaltung,1008,4,GIH,1.5,7.7,False,0,FernwÃ¤rme,47.424628,8.46106
+LI-031,"MFH Weinbergstrasse 53, ZÃ¼rich",ZÃ¼rich,ZH,Wohnen,2226,6,SMA,0.6,3.2,True,51.9,Gasheizung,47.373979,8.533964
+LI-032,"MFH Thurgauerstrasse 1, Regensdorf",Regensdorf,ZH,Wohnen,2121,7,GIH,0.6,3.2,True,42.4,Ã–lheizung,47.437083,8.473483
+LI-033,"MFH Weinbergstrasse 63b, Dietikon",Dietikon,ZH,Wohnen,1140,7,GIH,0.6,3.2,True,22.8,WÃ¤rmepumpe (WP),47.40838,8.408172
+LI-034,"MFH Badenerstrasse 60, Regensdorf",Regensdorf,ZH,Wohnen,1836,5,GIH,0.6,3.2,True,51.4,FernwÃ¤rme,47.428098,8.45808
+LI-035,"BÃ¼rogebÃ¤ude Thurgauerstrasse 3, ZÃ¼rich",ZÃ¼rich,ZH,BÃ¼ro & Verwaltung,1776,9,REH,1.5,7.7,False,0,WÃ¤rmepumpe (WP),47.387998,8.537399
+LI-036,"MFH Hochbergerstrasse 20, Basel",Basel,BS,Wohnen,1400,6,BAS,0.6,3.2,True,32.7,FernwÃ¤rme,47.562067,7.589535
+LI-037,"BÃ¼rogebÃ¤ude St. Alban-Anlage 15, Allschwil",Allschwil,BS,BÃ¼ro & Verwaltung,1108,5,GRE,1.5,7.7,False,0,WÃ¤rmepumpe (WP),47.562153,7.528594
+LI-038,"MFH Riehenstrasse 10, Allschwil",Allschwil,BS,Wohnen,2987,7,GRE,0.6,3.2,True,59.7,WÃ¤rmepumpe (WP),47.541446,7.54454
+LI-039,"BÃ¼rogebÃ¤ude ElsÃ¤sserstrasse 48b, Riehen",Riehen,BS,BÃ¼ro & Verwaltung,1554,6,LEI,1.5,7.7,False,0,WÃ¤rmepumpe (WP),47.59139,7.656736
+LI-040,"MFH Steinenvorstadt 94, Riehen",Riehen,BS,Wohnen,2944,6,LEI,0.6,3.2,True,68.7,FernwÃ¤rme,47.585782,7.659071
+LI-041,"BÃ¼rogebÃ¤ude SchÃ¼tzenmattstrasse 12, Basel",Basel,BS,BÃ¼ro & Verwaltung,2192,5,BAS,1.5,7.7,False,0,Gasheizung,47.551853,7.587153
+LI-042,"BÃ¼rogebÃ¤ude Nauenstrasse 34, Riehen",Riehen,BS,BÃ¼ro & Verwaltung,1910,3,LEI,1.5,7.7,False,0,WÃ¤rmepumpe (WP),47.584339,7.649399
+LI-043,"BÃ¼rogebÃ¤ude St. Alban-Anlage 63, Allschwil",Allschwil,BS,BÃ¼ro & Verwaltung,3289,5,GRE,1.5,7.7,False,0,VRV/VRF-Klimasystem,47.541233,7.531318
+LI-044,"MFH Reinacherstrasse 43, Allschwil",Allschwil,BS,Wohnen,968,4,GRE,0.6,3.2,True,33.9,WÃ¤rmepumpe (WP),47.545502,7.532034
+LI-045,"BÃ¼rogebÃ¤ude Gundeldingerstrasse 36, Allschwil",Allschwil,BS,BÃ¼ro & Verwaltung,2886,4,BAS,1.5,7.7,False,0,FernwÃ¤rme,47.562532,7.545983
+LI-046,"BÃ¼rogebÃ¤ude Reinacherstrasse 38, Basel",Basel,BS,BÃ¼ro & Verwaltung,931,9,BAS,1.5,7.7,False,0,VRV/VRF-Klimasystem,47.561309,7.594067
+LI-047,"MFH Freie Strasse 33, Basel",Basel,BS,Wohnen,2208,3,BAS,0.6,3.2,True,103,Ã–lheizung,47.548738,7.577568
+LI-048,"MFH Petersgraben 11, Allschwil",Allschwil,BS,Wohnen,2295,7,GRE,0.6,3.2,True,45.9,Gasheizung,47.552394,7.535988
+LI-049,"GeschÃ¤ftshaus Hammerstrasse 40, Allschwil",Allschwil,BS,Verkauf & Mischnutzung,972,3,GRE,2.3,11.4,False,0,FernwÃ¤rme,47.553631,7.543762
+LI-050,"GeschÃ¤ftshaus Freie Strasse 53, Basel",Basel,BS,Verkauf & Mischnutzung,791,5,BAS,2.3,11.4,False,0,Gasheizung,47.55299,7.581555
+LI-051,"MFH Riehenstrasse 83, Allschwil",Allschwil,BS,Wohnen,1261,5,GRE,0.6,3.2,True,35.3,Ã–lheizung,47.558839,7.527714
+LI-052,"MFH St. Alban-Anlage 39, Riehen",Riehen,BS,Wohnen,790,7,LEI,0.6,3.2,True,15.8,FernwÃ¤rme,47.583011,7.648851
+LI-053,"BÃ¼rogebÃ¤ude ElsÃ¤sserstrasse 74, Basel",Basel,BS,BÃ¼ro & Verwaltung,1680,7,BAS,1.5,7.7,False,0,FernwÃ¤rme,47.56999,7.592135
+LI-054,"BÃ¼rogebÃ¤ude Hochbergerstrasse 56, Basel",Basel,BS,BÃ¼ro & Verwaltung,3604,5,BAS,1.5,7.7,False,0,WÃ¤rmepumpe (WP),47.569257,7.58728
+LI-055,"MFH Gundeldingerstrasse 37, Allschwil",Allschwil,BS,Wohnen,1936,3,BAS,0.6,3.2,True,90.3,FernwÃ¤rme,47.558526,7.539202
+LI-056,"MFH ElsÃ¤sserstrasse 70, Basel",Basel,BS,Wohnen,3136,6,BAS,0.6,3.2,True,73.2,FernwÃ¤rme,47.550502,7.584683
+LI-057,"GeschÃ¤ftshaus Hebelstrasse 37, Basel",Basel,BS,Verkauf & Mischnutzung,1620,3,BAS,2.3,11.4,False,0,WÃ¤rmepumpe (WP),47.548914,7.599356
+LI-058,"MFH Gundeldingerstrasse 16, Basel",Basel,BS,Wohnen,2184,5,BAS,0.6,3.2,True,61.2,FernwÃ¤rme,47.557961,7.593198
+LI-059,"MFH Hammerstrasse 25, Basel",Basel,BS,Wohnen,1020,5,BAS,0.6,3.2,True,28.6,FernwÃ¤rme,47.563911,7.579276
+LI-060,"GeschÃ¤ftshaus St. Alban-Anlage 39, Riehen",Riehen,BS,Verkauf & Mischnutzung,1800,4,LEI,2.3,11.4,False,0,FernwÃ¤rme,47.591766,7.647717
+LI-061,"BÃ¼rogebÃ¤ude Habsburgerstrasse 50, Emmen",Emmen,LU,BÃ¼ro & Verwaltung,4784,6,LUZ,1.5,7.7,False,0,WÃ¤rmepumpe (WP),47.062048,8.278873
+LI-062,"BÃ¼rogebÃ¤ude Tribschenstrasse 76, Emmen",Emmen,LU,BÃ¼ro & Verwaltung,2660,6,LUZ,1.5,7.7,False,0,WÃ¤rmepumpe (WP),47.081981,8.271567
+LI-063,"MFH Bernstrasse 80, Kriens",Kriens,LU,Wohnen,2700,6,LUZ,0.6,3.2,True,63,FernwÃ¤rme,47.039442,8.286456
+LI-064,"MFH Habsburgerstrasse 9, Luzern",Luzern,LU,Wohnen,2142,3,LUZ,0.6,3.2,True,100,Ã–lheizung,47.061938,8.313922
+LI-065,"MFH Kasernenplatz 6, Kriens",Kriens,LU,Wohnen,1128,4,LUZ,0.6,3.2,True,39.5,FernwÃ¤rme,47.026041,8.274996
+LI-066,"MFH Habsburgerstrasse 49, Luzern",Luzern,LU,Wohnen,1470,6,LUZ,0.6,3.2,True,34.3,FernwÃ¤rme,47.049944,8.309996
+LI-067,"BÃ¼rogebÃ¤ude Maihofstrasse 87, Horw",Horw,LU,BÃ¼ro & Verwaltung,3094,8,LUZ,1.5,7.7,False,0,WÃ¤rmepumpe (WP),47.013602,8.309294
+LI-068,"MFH GÃ¼tschstrasse 62b, Horw",Horw,LU,Wohnen,1768,3,LUZ,0.6,3.2,True,82.5,Ã–lheizung,47.016795,8.324825
+LI-069,"BÃ¼rogebÃ¤ude Habsburgerstrasse 96, Luzern",Luzern,LU,BÃ¼ro & Verwaltung,4380,4,LUZ,1.5,7.7,False,0,FernwÃ¤rme,47.056618,8.301523
+LI-070,"MFH Maihofstrasse 57b, Luzern",Luzern,LU,Wohnen,2573,6,LUZ,0.6,3.2,True,60,WÃ¤rmepumpe (WP),47.040163,8.303083
+LI-071,"MFH GÃ¼tschstrasse 22, Kriens",Kriens,LU,Wohnen,1656,3,LUZ,0.6,3.2,True,77.3,WÃ¤rmepumpe (WP),47.042217,8.273083
+LI-072,"MFH GÃ¼tschstrasse 72, Horw",Horw,LU,Wohnen,2178,5,LUZ,0.6,3.2,True,61,Ã–lheizung,47.003334,8.313878
+LI-073,"MFH Hirschmattstrasse 87, Kriens",Kriens,LU,Wohnen,1530,7,LUZ,0.6,3.2,True,30.6,Ã–lheizung,47.033869,8.288636
+LI-074,"MFH LÃ¶wengraben 53a, Kriens",Kriens,LU,Wohnen,1166,4,LUZ,0.6,3.2,True,40.8,Gasheizung,47.026305,8.277823
+LI-075,"MFH Habsburgerstrasse 96, Horw",Horw,LU,Wohnen,2916,6,LUZ,0.6,3.2,True,68,FernwÃ¤rme,47.018718,8.321009
+LI-076,"GeschÃ¤ftshaus Pilatusstrasse 47b, Horw",Horw,LU,Verkauf & Mischnutzung,472,5,LUZ,2.3,11.4,False,0,Gasheizung,47.004453,8.307621
+LI-077,"GeschÃ¤ftshaus Pilatusstrasse 17, Kriens",Kriens,LU,Verkauf & Mischnutzung,924,3,LUZ,2.3,11.4,False,0,WÃ¤rmepumpe (WP),47.020647,8.284364
+LI-078,"GeschÃ¤ftshaus Sentimattstrasse 70, Emmen",Emmen,LU,Verkauf & Mischnutzung,930,2,LUZ,2.3,11.4,False,0,Gasheizung,47.063638,8.281795
+LI-079,"GeschÃ¤ftshaus Sentimattstrasse 95, Luzern",Luzern,LU,Verkauf & Mischnutzung,1680,2,LUZ,2.3,11.4,False,0,Gasheizung,47.055896,8.30743
+LI-080,"MFH Kreuzbuchstrasse 83, Kriens",Kriens,LU,Wohnen,1953,3,LUZ,0.6,3.2,True,91.1,Ã–lheizung,47.042966,8.286335
+LI-081,"BÃ¼rogebÃ¤ude Hinterdorfstrasse 19b, Brugg",Brugg,AG,BÃ¼ro & Verwaltung,3367,6,BUS,1.5,7.7,False,0,VRV/VRF-Klimasystem,47.483142,8.211337
+LI-082,"MFH Vorstadt 93, Rheinfelden",Rheinfelden,AG,Wohnen,1620,6,LEI,0.6,3.2,True,37.8,FernwÃ¤rme,47.553837,7.786484
+LI-083,"GeschÃ¤ftshaus Schulgasse 48, Rheinfelden",Rheinfelden,AG,Verkauf & Mischnutzung,476,5,LEI,2.3,11.4,False,0,WÃ¤rmepumpe (WP),47.544611,7.800963
+LI-084,"MFH Vorstadt 43, Zofingen",Zofingen,AG,Wohnen,3360,6,WYN,0.6,3.2,True,78.4,Ã–lheizung,47.284486,7.949968
+LI-085,"MFH Hauptstrasse 74, Brugg",Brugg,AG,Wohnen,1155,5,BUS,0.6,3.2,True,32.3,Gasheizung,47.489762,8.202382
+LI-086,"GeschÃ¤ftshaus Vorstadt 99, Wohlen",Wohlen,AG,Verkauf & Mischnutzung,987,2,BUS,2.3,11.4,False,0,WÃ¤rmepumpe (WP),47.354616,8.279788
+LI-087,"GeschÃ¤ftshaus Bahnhofstrasse 24, Brugg",Brugg,AG,Verkauf & Mischnutzung,690,2,BUS,2.3,11.4,False,0,Gasheizung,47.47567,8.214783
+LI-088,"BÃ¼rogebÃ¤ude Schulgasse 93, Brugg",Brugg,AG,BÃ¼ro & Verwaltung,750,8,PSI,1.5,7.7,False,0,FernwÃ¤rme,47.4952,8.200734
+LI-089,"GeschÃ¤ftshaus Aarestrasse 35, Wohlen",Wohlen,AG,Verkauf & Mischnutzung,2748,5,BUS,2.3,11.4,False,0,WÃ¤rmepumpe (WP),47.348284,8.266661
+LI-090,"MFH Bahnhofstrasse 27, Aarau",Aarau,AG,Wohnen,1377,5,GOE,0.6,3.2,True,38.6,WÃ¤rmepumpe (WP),47.397416,8.05034
+LI-091,"GeschÃ¤ftshaus Vorstadt 91, Wohlen",Wohlen,AG,Verkauf & Mischnutzung,297,5,BUS,2.3,11.4,False,0,FernwÃ¤rme,47.34173,8.284682
+LI-092,"BÃ¼rogebÃ¤ude Aarestrasse 91, Zofingen",Zofingen,AG,BÃ¼ro & Verwaltung,4032,4,WYN,1.5,7.7,False,0,Gasheizung,47.278764,7.934501
+LI-093,"BÃ¼rogebÃ¤ude Industriestrasse 56, Aarau",Aarau,AG,BÃ¼ro & Verwaltung,3010,4,GOE,1.5,7.7,False,0,FernwÃ¤rme,47.388498,8.039447
+LI-094,"BÃ¼rogebÃ¤ude Ringstrasse 45, Baden",Baden,AG,BÃ¼ro & Verwaltung,2840,4,PSI,1.5,7.7,False,0,FernwÃ¤rme,47.46667,8.298515
+LI-095,"MFH Schmiedegasse 60, Rheinfelden",Rheinfelden,AG,Wohnen,2464,7,LEI,0.6,3.2,True,49.3,Ã–lheizung,47.559347,7.802169
+LI-096,"BÃ¼rogebÃ¤ude Parkstrasse 39, Wohlen",Wohlen,AG,BÃ¼ro & Verwaltung,2502,6,BUS,1.5,7.7,False,0,WÃ¤rmepumpe (WP),47.348447,8.265781
+LI-097,"GeschÃ¤ftshaus Hinterdorfstrasse 77, Aarau",Aarau,AG,Verkauf & Mischnutzung,723,5,GOE,2.3,11.4,False,0,Gasheizung,47.392928,8.054902
+LI-098,"BÃ¼rogebÃ¤ude Schmiedegasse 14, Aarau",Aarau,AG,BÃ¼ro & Verwaltung,1737,3,GOE,1.5,7.7,False,0,WÃ¤rmepumpe (WP),47.402577,8.034024
+LI-099,"BÃ¼rogebÃ¤ude Kirchgasse 47, Zofingen",Zofingen,AG,BÃ¼ro & Verwaltung,1455,9,WYN,1.5,7.7,False,0,WÃ¤rmepumpe (WP),47.285298,7.952587
+LI-100,"MFH Aarestrasse 37, Rheinfelden",Rheinfelden,AG,Wohnen,1044,5,LEI,0.6,3.2,True,29.2,Ã–lheizung,47.551001,7.794986
+LI-101,"MFH Hauptstrasse 40, Rheinfelden",Rheinfelden,AG,Wohnen,2480,7,LEI,0.6,3.2,True,49.6,Ã–lheizung,47.562516,7.797083
+LI-102,"GeschÃ¤ftshaus Kirchgasse 28, Brugg",Brugg,AG,Verkauf & Mischnutzung,850,2,BUS,2.3,11.4,False,0,FernwÃ¤rme,47.478608,8.220999
+LI-103,"GeschÃ¤ftshaus Kirchgasse 77, Zofingen",Zofingen,AG,Verkauf & Mischnutzung,2484,3,WYN,2.3,11.4,False,0,FernwÃ¤rme,47.28034,7.950628
+LI-104,"MFH Schulgasse 97, Zofingen",Zofingen,AG,Wohnen,2047,4,WYN,0.6,3.2,True,71.6,Ã–lheizung,47.281616,7.93974
+LI-105,"BÃ¼rogebÃ¤ude Aarestrasse 65, Brugg",Brugg,AG,BÃ¼ro & Verwaltung,1552,9,PSI,1.5,7.7,False,0,WÃ¤rmepumpe (WP),47.493605,8.21623
+LI-106,"BÃ¼rogebÃ¤ude GÃ¶blistrasse 16, Zug",Zug,ZG,BÃ¼ro & Verwaltung,1928,9,CHZ,1.5,7.7,False,0,WÃ¤rmepumpe (WP),47.160547,8.525727
+LI-107,"MFH Baarerstrasse 54b, Steinhausen",Steinhausen,ZG,Wohnen,1320,3,CHZ,0.6,3.2,True,61.6,WÃ¤rmepumpe (WP),47.189268,8.476959
+LI-108,"BÃ¼rogebÃ¤ude Baarerstrasse 37, Baar",Baar,ZG,BÃ¼ro & Verwaltung,5453,6,CHZ,1.5,7.7,False,0,WÃ¤rmepumpe (WP),47.199706,8.518331
+LI-109,"GeschÃ¤ftshaus GÃ¶blistrasse 94, Baar",Baar,ZG,Verkauf & Mischnutzung,749,2,CHZ,2.3,11.4,False,0,Gasheizung,47.185668,8.521914
+LI-110,"BÃ¼rogebÃ¤ude Poststrasse 69a, Cham",Cham,ZG,BÃ¼ro & Verwaltung,4140,4,CHZ,1.5,7.7,False,0,Gasheizung,47.176991,8.449038
+LI-111,"MFH Industriestrasse 68, Steinhausen",Steinhausen,ZG,Wohnen,2492,6,CHZ,0.6,3.2,True,58.1,FernwÃ¤rme,47.189371,8.486283
+LI-112,"GeschÃ¤ftshaus Grabenstrasse 94, Steinhausen",Steinhausen,ZG,Verkauf & Mischnutzung,848,3,CHZ,2.3,11.4,False,0,WÃ¤rmepumpe (WP),47.198516,8.492644
+LI-113,"MFH Chollerstrasse 81, Cham",Cham,ZG,Wohnen,1914,3,CHZ,0.6,3.2,True,89.3,WÃ¤rmepumpe (WP),47.171514,8.467629
+LI-114,"MFH Zugerbergstrasse 66, Steinhausen",Steinhausen,ZG,Wohnen,1246,5,CHZ,0.6,3.2,True,34.9,WÃ¤rmepumpe (WP),47.18608,8.493079
+LI-115,"MFH Metallstrasse 52, Steinhausen",Steinhausen,ZG,Wohnen,2670,6,CHZ,0.6,3.2,True,62.3,Gasheizung,47.188137,8.479484
+LI-116,"MFH Metallstrasse 78, Zug",Zug,ZG,Wohnen,990,5,CHZ,0.6,3.2,True,27.7,FernwÃ¤rme,47.167091,8.511709
+LI-117,"BÃ¼rogebÃ¤ude Ã„geristrasse 58b, Cham",Cham,ZG,BÃ¼ro & Verwaltung,1505,3,CHZ,1.5,7.7,False,0,WÃ¤rmepumpe (WP),47.176589,8.472521
+LI-118,"MFH Poststrasse 87, Baar",Baar,ZG,Wohnen,2492,5,CHZ,0.6,3.2,True,69.8,FernwÃ¤rme,47.18603,8.520664
+LI-119,"MFH Ã„geristrasse 48, Cham",Cham,ZG,Wohnen,1960,5,CHZ,0.6,3.2,True,54.9,FernwÃ¤rme,47.183774,8.461707
+LI-120,"BÃ¼rogebÃ¤ude Chollerstrasse 67, Baar",Baar,ZG,BÃ¼ro & Verwaltung,5148,4,CHZ,1.5,7.7,False,0,FernwÃ¤rme,47.189283,8.521247
