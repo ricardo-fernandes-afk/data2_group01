@@ -1,0 +1,23 @@
+{
+  "pr_monat": {
+    "01": 0.6934,
+    "02": 0.7290,
+    "03": 0.8662,
+    "04": 0.9199,
+    "05": 0.8488,
+    "06": 0.6254,
+    "07": 0.8261,
+    "08": 0.8366,
+    "09": 0.8749,
+    "10": 0.7641,
+    "11": 0.7951,
+    "12": 0.7043
+  },
+  "pr_gesamt": 0.8098,
+  "kalibriert_am": "2026-04-15",
+  "datenpunkte": 26541,
+  "methode": "GEE Live (Meter 70P1 Fassade + 80P1 Dach) vs MeteoSwiss LUZ gre000h0, Overlap 2024-2025, Median pro Monat",
+  "anlage_kwp": 5.5,
+  "quelle_pv": "HSLU Testgebäude GEE Live Export 2024-2026",
+  "quelle_meteo": "MeteoSwiss OGD-SMN Station LUZ historisch 2020-2029"
+}
